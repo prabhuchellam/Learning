@@ -1,8 +1,6 @@
 package jenkins_demo;
 
-//Added comments
 
-//hope to push it from GIT
 
 public class IfThenElse_Statement {
 
