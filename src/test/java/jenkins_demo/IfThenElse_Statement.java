@@ -1,5 +1,6 @@
 package jenkins_demo;
 
+//Added comments
 public class IfThenElse_Statement {
 
 	public static void main(String[] args) {
@@ -11,6 +12,7 @@ public class IfThenElse_Statement {
 		}else{
 			System.out.println("Today is not Sunday");
 		}
+		
 
 		if(iDay==7){
 			System.out.println("Today is Sunday");
